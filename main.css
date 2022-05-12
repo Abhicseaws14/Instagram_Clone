@@ -1,0 +1,169 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background: url(/insta.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* width: 100%; */
+    /* height: auto; */
+}
+
+.container{
+    float: right;
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-right: 400px;
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    /* opacity: 0.4; */
+}
+
+.form img{
+    width: 200px;
+    margin: auto;
+    margin-top: 25px;
+}
+
+.form input{
+    margin: 20px;
+    padding: 12px;
+    width: 70%;
+    margin-bottom: -15px;
+    border-radius: 2px;
+    opacity: 0.8;
+    background-color: white;
+    border: none;
+    outline: none;
+}
+
+.form button{
+    margin-top: 25px;
+    width: 77%;
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+    background-color: #0095f6;
+    opacity: 0.5;
+    color: white;
+}
+
+.Reg{
+    display: inline-flex;
+    margin: 10px;
+    /* float: left; */
+    margin-left: 10px;
+    width: 30%;
+    opacity: 0.2;
+}
+
+.Reg1{
+    margin-right: 18px;
+    /* float: right; */
+    display: inline-flex;
+    width: 30%;
+    opacity: 0.2;
+}
+
+.s1{
+    display: inline-flex;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+.fb{
+    display: flex;
+    margin-top: 10px;
+}
+
+.logo{
+    display: inline-flex;
+    width: 25px;
+    height: 25px;
+    margin-left: 97px;
+    /* margin-bottom: 2px; */
+}
+
+p{
+    display: inline-flex;
+    margin-left: 2px;
+    padding: 5px;
+    color: darkblue;
+    font-family: Arial;
+}
+
+.s2{
+    margin-top: 15px;
+    font-size: 14px;
+    font-weight: thin;
+    color: black;
+    text-align: center;
+    opacity: 0.8;
+}
+
+.sign{
+    display: flex;
+    float: right;
+    margin-top: 500px;
+    margin-right: -387px;
+    /* padding: 2px; */
+    border: 1px solid black;
+    width: 25%;
+    height: 100%;
+}
+
+.sign p{
+    /* margin-right: 19px; */
+    padding: 16px;
+    font-family: sans-serif;
+    font-size: 14px;
+    /* display: inline-flex; */
+}
+
+.sign .head{
+    display: flex;
+    margin-left: 75px;
+    color: black;
+    opacity: 0.8;
+    font-weight: lighter;
+}
+
+.sign .signup{
+    /* display: flex; */
+    margin-left: -30px;
+    text-align: center;
+    color: #0095f6;
+}
+
+.get {
+    float: right;
+    margin-top: 565px;
+    margin-right: -245px;
+}
+
+.get p{
+    font-size: 14px;
+    font-family: sans-serif;
+    color: black;
+    opacity: 0.8;
+}
+
+.btns{
+    float: right;
+    margin-top: 575px;
+    margin-right: -375px;
+}
+
+.btns .app{
+    width: 150px;
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+.btns .play{
+    width: 175px;
+    height: 100px;
+}
